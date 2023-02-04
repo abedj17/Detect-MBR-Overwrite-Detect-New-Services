@@ -1,3 +1,3 @@
 # Master Boot Record #
 
-Loading ....
+Detecting encrypyion attack mbr(master boot record)
